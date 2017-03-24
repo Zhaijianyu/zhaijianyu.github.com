@@ -1,0 +1,7 @@
+@charset "UTF-8";
+#tb,td{
+	width: 10px;
+	height: 10px;
+	border: 20px;
+	background-color: #FFFFFF;
+}

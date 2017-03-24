@@ -1,0 +1,9 @@
+@charset "UTF-8"
+
+#box1{
+	position: absolute;
+	display: both;
+    width: 100px;
+    height: 100px;
+    background-color: #FFFFFF;
+}
