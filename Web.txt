@@ -1,0 +1,170 @@
+cd 
+
+apt install
+remove
+wget下载某个程序
+chmod改变文件权限
+cat 连接文件
+ln建立快捷链接
+
+
+
+
+打开同步服务器 空白文件
+
+
+css 浮动
+tr->td
+ul->li 无序列表
+代替td
+
+创建浮动框可以使文本围绕图像
+
+clear 属性的值可以是 left、right、both 或 none，
+它表示框的哪些边不应该挨着浮动框。
+both用的最多
+
+
+
+none 不占据空间体积
+block 行独占 可设置宽高 实际宽高为本身宽高+padding
+inline 没有高度和宽度
+使它变宽变大的原因是:
+1. 内部元素的宽高+padding。
+2. inline不单独占一行，其它元素会紧跟其后。
+visibility占据空间体积
+
+display 对象
+典型的行内元素（inline）元素
+<span>、<a>、<label>、<input>、 
+<img>、 <strong> 和<em>
+
+块级（block）元素
+<div>、 <p>、<h1>、<form>、<ul> 和 <li>
+
+
+
+
+3月23
+
+git  
+git-scm.com
+
+下载
+创建全局用户名  邮箱
+ git config -l（L）
+
+git init 初始化
+dir不显示隐藏文件   .git隐藏文件
+修改config 别的不要动
+
+git status 看当前目录下文件状态
+    未加入的文件红字显示
+
+git add .    表示所有文件加入进去
+
+git commit -m "init project" 加入代码仓库
+    若不commit 只会存在暂存区
+ 
+
+
+做了修改之后 重新add进去 
+或者 git commit -m "add list"
+
+
+git log --online
+git log --online --graph  查看日志
+
+echo box.html
+
+git rm box.html 删除该文件
+
+
+git HEAD ~2  回到第2个版本
+
+git reflog  看到所有的历史操作
+
+
+git reset -hard
+
+
+ new respository 新的代码仓库
+命名规则：主页名称    用户名+.github.com
+
+public 
+
+
+HTTPS  SSH
+
+输入用户名 密码
+
+
+用户名.github.io
+
+git push -u origin master
+
+
+<li> 实验一 <a.her.."abc.html"></li>
+
+putty
+
+git cheat sheet
+
+
+
+3月24日
+
+auto 自动根据子对象元素内容来计算出现水平还是垂直滚动条
+
+
+.div{
+overflow：hidden；
+white-space：nowrap；
+text-flow：
+}
+
+
+
+123.56.17.91/dist 
+账号 学号  密码 学号      作业上交查看地点
+
+账号 admin 密码 a  李阳账号密码
+
+
+
+
+
+
+3月31
+
+六中矢量字体  tts。。。。。
+
+
+过渡
+ 
+
+
+4月6
+
+基本字体 12px 1.5行高
+
+
+
+4月7
+color picker
+color zilla
+tampermonkey
+vimium
+octotree
+onetab
+
+
+
+
+
+
+
+
+
+
+
