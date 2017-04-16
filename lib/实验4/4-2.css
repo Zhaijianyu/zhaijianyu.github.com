@@ -1,0 +1,116 @@
+@charset "UTF-8";
+#ui-item{
+	width: 390px;
+	height: 370px;
+	border:1px solid black;
+	display: flex;
+	flex-direction: column;
+}
+#ui-item-head{
+	width: 390px;
+	height: 250px;
+	border-bottom: 1px solid black;
+}
+#ui-item-body{
+	width: 390px;
+	height: 120px;
+	display: flex;
+	flex-direction: column;
+	background-color: #ffe6f4;
+}
+#ui-item-body-title{
+	width: 370px;
+	height: 20px;
+	margin: 10px;
+	margin-bottom: 0px;
+	border: 1px solid #1f1c1e;
+	background-color: #ffffff;
+	font-size: 12px;	
+	font-family: "Microsoft YaHei"!important;
+	color: #6e6e6e;	
+}
+#ui-item-body-title-w{
+	width: 70px;
+	height: 20px;
+	margin-left: 10px;
+	font-size: 12px;	
+	font-family: "Microsoft YaHei"!important;
+	color: #6e6e6e;	
+}
+#ui-item-body-message{
+	width: 370px;
+	height: 20px;
+	margin: 10px;
+	margin-bottom: 0px;
+	border: 1px solid #1f1c1e;
+	background-color: #ffffff;
+}
+#ui-item-body-message-wtitle{
+	width: 70px;
+	height: 20px;
+	margin-left: 10px;
+	font-size: 12px;	
+	font-family: "Microsoft YaHei"!important;
+	color: #f70b42;
+	float: left;
+/*	border: 1px solid black;*/
+}
+#ui-item-body-message-wmessage{
+	width: 70px;
+	height: 20px;
+	margin-left: 10px;
+	font-size: 12px;	
+	font-family: "Microsoft YaHei"!important;
+	color: #6e6e6e;
+	float: left;
+/*	border: 1px solid black;*/
+}
+#ui-item-body-price{
+	width: 370px;
+	height: 30px;
+	margin: 10px;
+	margin-bottom: 0px;
+	border: 1px solid #1f1c1e;
+	background-color: #ffffff;
+	display: flex;
+}
+#ui-item-body-price-1{
+	width: 20px;
+	height: 20px;
+	font-size: 15px;
+	font-family: "Microsoft YaHei"!important;
+	color: #f70b42;
+	font-weight: bold; 				  /*加粗*/
+	margin-left: 10px;
+	margin-top: 5px;
+
+}
+#ui-item-body-price-2{
+  	font-size: 19px;	
+	font-family: "Microsoft YaHei"!important;
+	font-weight: bold; 				  /*加粗*/
+	color: #f70b42;
+}
+#ui-item-body-price-3{
+ 	font-size: 10px;	
+	font-family: "Microsoft YaHei"!important;
+	color: #8e8e8e;
+	margin-top: 15px;
+	text-decoration: line-through; 
+}
+#ui-item-body-price-4{
+	font-size: 10px;	
+	font-family: "Microsoft YaHei"!important;
+	color: #8e8e8e;
+	margin-top: 15px;
+}
+#ui-item-body-price-5{
+	width: 150px;
+}
+
+/**
+ * 
+ * @authors Your Name (you@example.org)
+ * @date    2017-04-12 23:28:30
+ * @version $Id$
+ */
