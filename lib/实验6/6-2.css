@@ -1,0 +1,46 @@
+@charset "UTF-8";
+.ui-item2{
+	width: 500px;
+	height: 400px;
+	margin: auto;
+	/*border: 1px solid #7d7d7d;
+	border-top: 0px;*/
+}
+
+.ui-item2-top{
+	width: 500px;
+	height: 40px;
+	display: flex;
+}
+.ui-item2-top1,
+.ui-item2-top2,
+.ui-item2-top3{
+	width: 100px;
+	height: 39px;
+	border-top: 1px solid #7d7d7d;
+	border-left: 1px solid #7d7d7d;
+	/*border-bottom: 1px solid #7d7d7d;*/
+}
+.ui-item2-top3{
+	border-right: 1px solid #7d7d7d;
+}
+
+
+.ui-item2-body{
+	width: 500px;
+	height: 300px;
+	border: 1px solid #7d7d7d;
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-size: 50px;
+
+}
+
+/**
+ * 
+ * @authors Your Name (you@example.org)
+ * @date    2017-04-21 10:53:46
+ * @version $Id$
+ */
