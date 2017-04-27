@@ -255,3 +255,48 @@
 	margin-top: 3px;
 	font-weight: bolder;
 }
+.ui-timetable-head-line3-1{
+	width:620px;
+}
+
+.fa-print-text,
+.fa-file-text-o-text{
+	font-size: 14px;
+	color: #002cbd;
+	margin-right: 20px;
+	margin-top: 3px;
+}
+.ui-timetable-body-line1-1,
+.ui-timetable-body-line3-1,
+.ui-timetable-body-line5-1{
+	width: 460px;
+}
+.ui-timetable-body-line1-2,
+.ui-timetable-body-line3-2,
+.ui-timetable-body-line5-2{
+	width: 120px;
+	font-size: 14px;
+	margin-left: 5px;
+	margin-top: 12px;
+}
+.ui-timetable-body-line3-2{
+	margin-top: 5px;
+}
+.ui-timetable-body-line1-3,
+.ui-timetable-body-line1-4,
+.ui-timetable-body-line1-5,
+.ui-timetable-body-line1-6,
+.ui-timetable-body-line3-3,
+.ui-timetable-body-line3-4,
+.ui-timetable-body-line3-5,
+.ui-timetable-body-line3-6,
+.ui-timetable-body-line5-3,
+.ui-timetable-body-line5-4,
+.ui-timetable-body-line5-5,
+.ui-timetable-body-line5-6{
+	width: 45px;
+	font-size: 14px;
+	margin-left: 5px;
+	margin-top: 12px;
+	color: rgb(10,52,191);
+}
