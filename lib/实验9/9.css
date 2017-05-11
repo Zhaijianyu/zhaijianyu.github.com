@@ -1,0 +1,49 @@
+@charset "UTF-8";
+
+.ui{
+	width: 570px;
+	height: 320px;
+	margin: auto;
+	background-color: #ffe6f4;
+	/*display: flex;*/
+	flex-direction: column;
+}
+.ui-item1,
+.ui-item2,
+.ui-item3{
+   width: 200px;
+   height: 80px;
+   margin: 10px;
+   border: 1px solid #eeeeee;
+   background-color: #eadccc;
+	float: left;
+	margin-left: 20px;
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-size: 25px;
+	font-family: "Microsoft YaHei"!important;
+}
+
+.ui-item1-w,
+.ui-item2-w,
+.ui-item3-w{
+	width: 300px;
+   height: 80px;
+   margin: 10px;
+   border: 1px solid #eeeeee;
+   background-color: #eadccc;
+	float: left;
+
+   display: flex;
+	justify-content: center;
+	align-items: center;
+	font-size: 15px;
+	font-family: "Microsoft YaHei"!important;
+}
+
+.ui-item1,
+.ui-item1-w{
+	margin-top: 20px;
+}

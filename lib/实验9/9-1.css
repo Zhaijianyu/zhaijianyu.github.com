@@ -1,0 +1,24 @@
+@charset "UTF-8";
+/**
+ * 
+ * @authors Your Name (you@example.org)
+ * @date    2017-05-04 15:48:43
+ * @version $Id$
+ */
+
+
+#myMap{
+	width:80%;
+	height: 950px;
+	/*border: 1px solid black;*/
+	float: left;
+	
+	
+}
+
+
+#result{
+	position:absolute;
+    width:200px;
+    right:50px;
+}

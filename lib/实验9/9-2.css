@@ -1,0 +1,22 @@
+@charset "UTF-8";
+#myMap{
+	width:80%;
+	height: 500px;
+	/*border: 1px solid black;*/
+	float: left;
+}
+
+
+#result{
+	position:absolute;
+    width:200px;
+    right:50px;
+}
+.HZNU-TO-Hotel{
+	/*background-color: lightgray;*/
+	width: 120px;
+	height: 20px;
+	float: left;
+	/*margin-bottom: 20px; */
+
+}
